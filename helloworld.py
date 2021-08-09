@@ -5,4 +5,4 @@ if weather == "비":
 elif weather == "황사":
   print("마스크 챙김")
 else:
-  print("준비물 없음")
+  print("준비물 없습니다.")
