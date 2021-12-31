@@ -31,7 +31,6 @@ to_y = 0
 # 이동 속도
 character_speed = 0.6
 
-
 # 이벤트 루프
 running = True # 게임이 진행중인가? 확인하는것
 while running:
