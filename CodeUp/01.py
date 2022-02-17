@@ -1,1 +1,2 @@
-print("print(\"Hello\\nWorld\")")
+n = 10
+print(f"내 아이디 개수는{{{n}}}개 입니다.")
